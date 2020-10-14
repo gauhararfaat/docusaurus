@@ -3,7 +3,7 @@ id: installation
 title: Installation
 ---
 
-Docusaurus is essentially a set of npm [packages](https://github.com/facebook/docusaurus/tree/master/packages) that can be installed over npm.
+Docusauruss is essentially a set of npm [packages](https://github.com/facebook/docusaurus/tree/master/packages) that can be installed over npm.
 
 ## Requirements
 
